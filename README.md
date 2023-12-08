@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-webdev" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/bdf134ff-a7d6-4b96-b70f-a5906df334a8.svg)](https://wakatime.com/@bdf134ff-a7d6-4b96-b70f-a5906df334a8)
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React.js, Node ,Express and MongoDB**
